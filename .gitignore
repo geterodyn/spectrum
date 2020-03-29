@@ -1,0 +1,6 @@
+*.wav
+*.mp3
+.vscode
+venv-mp3/
+*.sqlite3
+*.html

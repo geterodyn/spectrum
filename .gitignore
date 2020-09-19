@@ -3,4 +3,3 @@
 .vscode
 venv-mp3/
 *.sqlite3
-*.html
